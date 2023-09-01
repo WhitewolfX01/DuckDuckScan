@@ -7,7 +7,7 @@ Installation
 -------------
 Step 1: Clone the tool to your device.
 
-        git clone  https://github.com/WhitewolfX01/DuckDuckScan.git
+	git clone  https://github.com/WhitewolfX01/DuckDuckScan.git
 
 
  
