@@ -20,4 +20,12 @@ Step 2: Get into the directory.
 
 
  
-Step 3: Run the command.
+Step 3: Give executable permission to the duckduckscan.sh file.
+
+
+	chmod +x duckduckscan.sh
+
+Step 4: Run the command.
+
+
+ 	./duckduckscan.sh
