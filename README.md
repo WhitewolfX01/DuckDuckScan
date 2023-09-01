@@ -8,4 +8,5 @@ Installation
 Step 1: Clone the tool to your device.
         git clone  https://github.com/WhitewolfX01/DuckDuckScan.git
 Step 2: Get into the directory.
+	cd DuckDuckScan
 Step 3: Run the command.
